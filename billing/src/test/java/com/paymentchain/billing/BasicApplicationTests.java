@@ -6,13 +6,11 @@ import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
-@SpringBootTest
+//@SpringBootTest
 public class BasicApplicationTests {
 
 	@Test
 	public void contextLoads() {
-		String meessage= "Default message cambio 11";
-		//Assert.assertNotNull(meessage);
 	}
 
 }
