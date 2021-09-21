@@ -43,6 +43,21 @@ import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.
 @ExtendWith(SpringExtension.class)//junit5 suport extension interface hrough which classes can integrate with the JUnit test.
 @AutoConfigureMockMvc/*allow test only http incoming request layer without start the serve, 
         but starting the full spring application context*/
+
+
+
+
+
+
+/*
+Estaremos agregando mas contenido para poder cargar con la solucion necesaria
+*/
+
+
+
+
+
+
 public class BasicApplicationTests {
   
     @Autowired
